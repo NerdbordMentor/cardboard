@@ -5,7 +5,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details open="open">as
 
   <summary>Table of Contents</summary>
   
